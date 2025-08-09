@@ -28,3 +28,4 @@ defineEmits<{
   'update:checked': [value: boolean]
 }>()
 </script>
+
